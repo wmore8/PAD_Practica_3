@@ -5,7 +5,7 @@
 
 > **Link de la App:**
 
-  [https://washing-mr8.github.io/PAD_Practica_3/](https://washing-mr8.github.io/PAD_Practica_3/)
+  [https://wmore8.github.io/PAD_Practica_3/](https://wmore8.github.io/PAD_Practica_3/)
 
 > **Realizado por:**
  - Álvaro Ray Martínez
